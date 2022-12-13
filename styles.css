@@ -1,0 +1,395 @@
+.intro0{
+    position: absolute;
+    width: 1980px;
+    height: 113px;
+    left: 0px;
+    top: 0px;
+    background: #1A0B2E;
+    box-shadow: 0px 6px 22px -3px rgba(0, 0, 0, 0.1);
+}
+
+.background{
+    position: absolute;
+width: 1990px;
+height: 4298px;
+left: -10px;
+top: 102px;
+background: #11071F;
+}
+
+
+.me{
+    position: absolute;
+    width: 165px;
+    height: 223px;
+    left: 399px;
+    top: 329.68px;
+} 
+
+.intro1{
+    position: absolute;
+    width: 245px;
+    height: 20px;
+    left: 570px;
+    top: 199.96px;
+color: #FFFFFF;
+
+    font-family: 'Preahvihear';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 97px;
+    /* or 511% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.5px;
+}
+
+.gradient{
+    position: absolute;
+width: 385px;
+height: 431px;
+left: 285px;
+top: 220px;
+
+background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
+}
+
+.intro2{
+    position: absolute;
+width: 399px;
+height: 31px;
+left: 677px;
+top: 281.68px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 31px;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+
+.intro3{
+    
+position: absolute;
+width: 386px;
+height: 126px;
+left: 677px;
+top: 290.68px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 63px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+}
+.intro4{
+    
+position: absolute;
+width: 674px;
+height: 90px;
+left: 374px;
+top: 661px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 90px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.intro5{
+    position: absolute;
+width: 573px;
+height: 38px;
+left: 374px;
+top: 810px;
+font-family: 'Preahvihear', sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 35px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+color: #FFFFFF
+}
+
+.smile{
+color: #FFFFFF ;
+position: absolute;
+  width: 150px;
+  height: 27px;
+  left: 111px;
+  top: 28px;
+  align-items: center;
+  text-align: center;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  display: block;
+  letter-spacing: 0.02em;
+} 
+
+.intro6{
+    
+position: absolute;
+width: 892px;
+height: 120px;
+left: 377px;
+top: 905px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 40px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.work{
+    position: absolute;
+width: 53px;
+height: 72px;
+left: 368px;
+top: 1100px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 72px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.experience{
+    position: absolute;
+width: 570px;
+height: 192.68px;
+left: 365px;
+top: 1351.04px;
+
+
+}
+
+
+.box {
+    border: 5px solid #763CAC;
+    width: 250px;
+    height:70px;
+    padding: 6px;
+    color: #FFFFFF;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+
+.box2 {
+    border: 5px solid #763CAC;
+    width: 250px;
+    height:70px;
+    padding: 6px;
+    color: #FFFFFF;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+.box3 {
+    border: 5px solid #763CAC;
+    width: 250px;
+    height:70px;
+    padding: 6px;
+    font-weight: 600;
+    color: #FFFFFF;
+
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+
+.experience3{
+position: absolute;
+width: 570px;
+height: 192.68px;
+left: 850px;
+top: 1351.04px;
+}
+
+.experience2{
+    position: absolute;
+width: 570px;
+height: 192.68px;
+left: 365px;
+top: 1478.04px;
+
+}
+
+.gradient2{
+position: absolute;
+width: 572px;
+height: 641px;
+left: 430px;
+top: 1125px;
+
+background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
+}
+
+.contact{
+position: absolute;
+width: 107px;
+height: 45px;
+left: 358px;
+top: 1950px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 72px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.contact-des{
+    
+position: absolute;
+width: 703px;
+height: 108px;
+left: 358px;
+top: 2034px;
+
+font-family: 'Preahvihear';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.linkedin{
+    position: absolute;
+width: 15px;
+
+height: 15.27px;
+left: 358px;
+top: 2162px;
+}
+.email{
+    position: absolute;
+width: 15px;
+
+height: 15.27px;
+left: 388px;
+top: 2162px;
+}
+.insta{
+    position: absolute;
+width: 15px;
+
+height: 15.27px;
+left: 420px;
+top: 2162px;
+}
+
+.figma{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 598px;
+top: 1817px;
+}
+.html-{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 598px;
+top: 1917px;
+}
+.js{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 798px;
+top: 1917px;
+}
+.nodejs{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 698px;
+top: 1917px;
+}
+.css-{
+    position: absolute;
+width: 37px;
+height: 30px;
+left: 798px;
+top: 1817px;
+}
+.python{
+    position: absolute;
+width: 34px;
+height: 25px;
+left: 698px;
+top: 1817px;
+}
+.skill{
+    
+    position: absolute;
+    width: 53px;
+    height: 72x;
+    left: 359px;
+    top: 1597px;
+    
+    font-family: 'Preahvihear';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+}
